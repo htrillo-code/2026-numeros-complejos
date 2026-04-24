@@ -1,6 +1,6 @@
-# 2026-numeros-complejos
+# 2026-numeros-complejos   AAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
-# Clase Complejo - Ejercicio
+# Clase Complejo - Ejercicio AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
 ## Descripción
 
@@ -23,3 +23,4 @@ Se pide crear una clase llamada `Complejo` que represente un número complejo.
 c = Complejo(3, 4)
 print(c.mostrar())  # Salida: (3, 4)
 ```     
+este si loquillo jojojo
